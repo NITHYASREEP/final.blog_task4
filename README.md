@@ -1,34 +1,25 @@
-# Apex Planet Task 4 - Security Enhancements
+# Apex Planet Internship - Task 5
 
-## Project Overview
-This project is a secure PHP Blog Application developed as part of the Apex Planet Web Development Internship.
+## Final Blog Management System
 
-## Features Implemented
-- User Registration and Login
-- Password Hashing using password_hash()
-- Password Verification using password_verify()
-- Prepared Statements to prevent SQL Injection
-- Form Validation
-- User Role Management (Admin/User)
-- Session-Based Authentication
-- Create, Read, Update and Delete (CRUD) Operations
+ ## Features:
+- User Registration
+- User Login & Logout
+- CRUD Operations
 - Search Functionality
 - Pagination
+- Form Validation
+- Role Based Access
+- Security Enhancements
+- Responsive UI
 
-## Technologies Used
+## Technologies Used:
 - PHP
 - MySQL
 - HTML
 - CSS
+- JavaScript
 - XAMPP
 - Git & GitHub
 
-## Security Features
-- SQL Injection Protection
-- Secure Password Storage
-- Input Validation
-- Role-Based Access Control
-
-## Author
-Nithyasree Panda
-Apex Planet Internship – Task 4
+Developed by Nithyasree Panda
